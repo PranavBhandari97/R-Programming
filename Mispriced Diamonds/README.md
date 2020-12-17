@@ -6,4 +6,4 @@
 
 ### The plots can be seen below
 
-![]("https://github.com/PranavBhandari97/R-Programming/blob/main/Mispriced%20Diamonds/Plot%201(Basic%20Plot).jpeg")
+![](Plot%201(Basic%20Plot).jpeg)
