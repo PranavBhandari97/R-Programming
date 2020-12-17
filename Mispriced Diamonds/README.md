@@ -10,15 +10,16 @@
 ![](Plot%201(Basic%20Plot).jpeg)
 
 ## Plot2(Plot with Colors)
-
+![](Plot%202(Plot%20with%20colors).jpeg)
 
 ## Plot 3(Plot with Transparency)
-
+![](Plot%203(%20Plot%20with%20Transparency).jpeg)
 
 ## Plot 4(Unsignificant values removed)
-
+![](Plot%204(%20Unsignificant%20Values%20Removed).jpeg)
 
 ## Plot 5(Adding Smoothers)
-
+![](Plot%205(%20Adding%20Smoothers).jpeg)
 
 ## Plot 6(Final Plot)
+![](Plot%206%20(Final%20Plot).jpeg)
