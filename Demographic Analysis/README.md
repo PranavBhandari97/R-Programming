@@ -35,3 +35,6 @@
 #### 2. Asia has the highest life expectancy now, with Africa still having the lowest, but still greater than in 1960.
 
 ![](Life%20Expectancy%20vs%20Fertility%20Rate(2013).jpeg) 
+
+
+###### Country vector source in script: www.superdatascience.com
