@@ -8,7 +8,7 @@
 
 ## Insights:
 
-..* Part 1
+⋅⋅* ### Part 1
 #### I. Analysis according to Interent Users vs Birth Rate by Region
 #### 1. In regions like Africa, the Birth Rate is extremely and the number of internet users very low.
 #### 2. In regions like Europe, the number of Internet Users is almost 100% and the birth rate is low.
