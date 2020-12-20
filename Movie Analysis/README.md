@@ -9,7 +9,7 @@
 
 ### Plot 1: Audience vs Critic Rating (According to Year and Genre)
 
-! [] (Plot1.jpeg)
+![](Plot1.jpeg)
 
 ### Plot 2: Scatter plot for Audience vs Critic Rating 
 
