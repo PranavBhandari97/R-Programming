@@ -1,7 +1,7 @@
 
 #Setting the Working Directory
 getwd()
-setwd("E:/Pranav/Portfolio/Github/R Programming/Diamonds")
+setwd("E:/Diamonds")
 
 #Importing the Dataset
 diamonds = read.csv('Mispriced-Diamonds.csv')
