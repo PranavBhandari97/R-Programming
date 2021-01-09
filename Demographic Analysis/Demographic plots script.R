@@ -1,7 +1,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/R Programming/Demographic Analysis')
+setwd('E:/Demographic Analysis')
 
 #Importing Dataset
 data = read.csv('Demographic-Data.csv')
