@@ -1,7 +1,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/R Programming/Machine Utilization')
+setwd('E:/Machine Utilization')
 
 #Importing the dataset
 dataset = read.csv('Machine-Utilization.csv')
