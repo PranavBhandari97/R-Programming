@@ -1,7 +1,7 @@
 
 #Setting working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/R Programming/Weather Data Analysis')
+setwd('E:/Weather Data Analysis')
 
 #Importing the datasets
 Chicago = read.csv('Chicago-C.csv', row.names = 1)
