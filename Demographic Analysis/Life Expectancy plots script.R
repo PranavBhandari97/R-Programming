@@ -1,5 +1,5 @@
 getwd()
-setwd('E:/Pranav/Portfolio/Github/R Programming/Demographic Analysis')
+setwd('E:/Demographic Analysis')
 
 #Importing Dataset
 data = read.csv('Life Expectancy Data.csv')
