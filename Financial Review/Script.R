@@ -1,7 +1,7 @@
 
 #Setting the working directory
 getwd()
-setwd('E:/Pranav/Portfolio/Github/R Programming/Financial Review')
+setwd('E:/Financial Review')
 
 #Importing dataset
 dataset = read.csv('Future-500.csv', na.strings = c(''))
