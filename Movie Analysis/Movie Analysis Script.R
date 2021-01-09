@@ -1,7 +1,7 @@
 
 #Setting the working Directory 
 getwd()
-setwd('E:/Pranav/Portfolio/Github/R Programming/Movies Analysis')
+setwd('E:/Movies Analysis')
 
 #Importing Dataset
 dataset = read.csv('Movie.csv')
